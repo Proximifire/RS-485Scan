@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Фильтр для USB Serial устройств (CH340, CP2102, FTDI и др.) -->
+    <!-- Этот фильтр позволяет автоматически получать разрешение для USB Serial адаптеров -->
+    <usb-device class="255" subclass="255" protocol="255" />
+</resources>
+
+
